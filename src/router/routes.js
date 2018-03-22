@@ -10,10 +10,17 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: () => import('layouts/default'),
+    path: '/home',
+    component: () => import('layouts/Home'),
     children: [
-      { path: '', component: () => import('pages/index') }
+      { path: '', component: () => import('pages/Index') }
+    ]
+  },
+  {
+    path: '/hot',
+    component: () => import('layouts/Hot'),
+    children: [
+      { path: '', component: () => import('pages/FilActu') }
     ]
   },
 
