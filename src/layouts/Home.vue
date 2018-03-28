@@ -6,12 +6,12 @@
           <div class="container">
             <div class="nav-header">
               <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-              <h1 id="fh5co-logo"><a href="index.html">Fit<span>ness</span></a></h1>
+              <h1 id="fh5co-logo"><a to="/" href="#">Fit<span>ness</span></a></h1>
               <!-- START #fh5co-menu-wrap -->
               <nav id="fh5co-menu-wrap" role="navigation">
                 <ul class="sf-menu" id="fh5co-primary-menu">
                   <li class="active">
-                    <a href="index.html">Home</a>
+                    <a to="/" href="#">Home</a>
                   </li>
                   <li>
                     <a href="classes.html" class="fh5co-sub-ddown">Classes</a>
@@ -49,7 +49,7 @@
       <!-- end:fh5co-header -->
       <div class="fh5co-hero">
         <div class="fh5co-overlay"></div>
-        <div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(../fitness/images/home-image.jpg);">
+        <div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(./assets/home-image-2.jpg);">
           <div class="desc animate-box">
             <div class="container">
               <div class="row">
@@ -820,4 +820,9 @@ export default {
 </script>
 
 <style>
+  @import '../fitness/css/animate.css';
+  @import '../fitness/css/icomoon.css';
+  @import '../fitness/css/bootstrap.css';
+  @import '../fitness/css/superfish.css';
+  @import '../fitness/css/style.css';
 </style>

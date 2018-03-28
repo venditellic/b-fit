@@ -20,7 +20,7 @@
         </q-toolbar-title>
       </q-toolbar>
       <q-tabs>
-        <q-route-tab slot="title" icon="home" to="/home" replace hide="icon" label="Home" />
+        <q-route-tab slot="title" icon="home" to="/" replace hide="icon" label="Home" />
         <q-route-tab slot="title" icon="fitness_center" to="/suivi" replace hide="icon" label="Suivi d'activitée" />
         <q-route-tab slot="title" icon="directions_run" to="/anatomie" replace hide="icon" label="Anatomie" />
         <q-route-tab slot="title" icon="whatshot" to="/hot" replace label="Hot" />
@@ -43,13 +43,10 @@
         </q-toolbar-title>
       </q-toolbar>
     </q-layout-footer>
-
-    <!-- (Optional) A Drawer; you can add one more with side="right" or change this one's side -->
     <q-layout-drawer
       side="left"
       v-model="leftDrawer"
     >
-      <!-- QScrollArea is optional -->
       <q-scroll-area class="fit q-pa-sm">
         <q-list no-border link inset-separator>
           <q-list-header>Menu suivi</q-list-header>
@@ -70,7 +67,6 @@
     </q-layout-drawer>
 
     <q-page-container>
-      <!-- This is where pages get injected -->
       <router-view />
     </q-page-container>
 

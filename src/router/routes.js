@@ -18,7 +18,7 @@ export default [
   },
   {
     path: '/hot',
-    component: () => import('layouts/Hot'),
+    component: () => import('layouts/Suivi'),
     children: [
       { path: '', component: () => import('pages/FilActu') }
     ]
