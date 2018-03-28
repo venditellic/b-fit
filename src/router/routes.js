@@ -10,7 +10,7 @@ export default [
     ]
   },
   {
-    path: '/home',
+    path: '/',
     component: () => import('layouts/Home'),
     children: [
       { path: '', component: () => import('pages/Index') }
