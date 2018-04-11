@@ -25,14 +25,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #4CB648;
+  color: #E4562E;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover {
   text-decoration: none !important;
-  color: #4CB648 !important;
+  color: #E4562E !important;
 }
 
 p, ul, ol {
@@ -323,10 +323,11 @@ figure {
 }
 #fh5co-logo a:after {
   position: absolute;
+  border-radius: 10px;
   content: '';
   top: -5px;
   left: -9px;
-  background: #DA1212;
+  background: #EFA842;
   width: 10px;
   height: 10px;
 }
@@ -357,7 +358,7 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #4CB648 !important;
+  color: #E4562E !important;
 }
 #fh5co-primary-menu > li > .sf-with-ul:after {
   border: none !important;
@@ -475,7 +476,7 @@ figure {
   background: none;
 }
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #4CB648 !important;
+  color: #E4562E !important;
 }
 
 #fh5co-programs-section,
@@ -569,7 +570,7 @@ figure {
   text-decoration: none;
 }
 .schedule li a.active {
-  background: #4CB648;
+  background: #E4562E;
   color: #fff !important;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
@@ -978,7 +979,7 @@ figure {
 
 .fh5co-social-icons > a {
   padding: 4px 10px;
-  color: #4CB648;
+  color: #4597EB;
 }
 .fh5co-social-icons > a i {
   font-size: 26px;
@@ -1094,14 +1095,14 @@ figure {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #4CB648;
+  background: #EFA842;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #4CB648;
+  background: #E4562E;
   color: #fff !important;
 }
 .btn:hover, .btn:active, .btn:focus {
@@ -1174,14 +1175,14 @@ figure {
   color: rgba(255, 255, 255, 0.4);
 }
 #offcanvas-menu ul li a:hover {
-  color: #4CB648;
+  color: #E4562E;
 }
 #offcanvas-menu ul li > .fh5co-sub-menu {
   margin-top: 9px;
   padding-left: 20px;
 }
 #offcanvas-menu ul li.active > a {
-  color: #4CB648;
+  color: #E4562E;
 }
 #offcanvas-menu ul .fh5co-sub-menu {
   display: block !important;

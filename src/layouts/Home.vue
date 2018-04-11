@@ -6,12 +6,12 @@
           <div class="container">
             <div class="nav-header">
               <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-              <h1 id="fh5co-logo"><a to="/" href="#">Fit<span>ness</span></a></h1>
+              <h1 id="fh5co-logo"><a to="/" href="#">B-<span>FIT</span></a></h1>
               <!-- START #fh5co-menu-wrap -->
               <nav id="fh5co-menu-wrap" role="navigation">
                 <ul class="sf-menu" id="fh5co-primary-menu">
                   <li class="active">
-                    <a to="/" href="#">Home</a>
+                    <a to="/" href="#">Accueil</a>
                   </li>
                   <li>
                     <a href="classes.html" class="fh5co-sub-ddown">Classes</a>
@@ -35,10 +35,10 @@
                     </ul>
                   </li>
                   <li>
-                    <a href="schedule.html">Schedule</a>
+                    <a href="schedule.html">Calendrier</a>
                   </li>
-                  <li><a href="trainer.html">Trainers</a></li>
-                  <li><a href="about.html">About</a></li>
+                  <li><a href="trainer.html">Entraineurs</a></li>
+                  <li><a href="about.html">À propos</a></li>
                   <li><a href="contact.html">Contact</a></li>
                 </ul>
               </nav>
@@ -49,14 +49,14 @@
       <!-- end:fh5co-header -->
       <div class="fh5co-hero">
         <div class="fh5co-overlay"></div>
-        <div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(./assets/home-image-2.jpg);">
+        <div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(./assets/mec2.jpg);">
           <div class="desc animate-box">
             <div class="container">
               <div class="row">
                 <div class="col-md-7">
-                  <h2>Fitness &amp; Health <br>is a <b>Mentality</b></h2>
-                  <p><span>Created with <i class="icon-heart3"></i> by the fine folks at <a href="http://freehtml5.co" class="fh5co-site-name">FreeHTML5.co</a></span></p>
-                  <span><a class="btn btn-primary" href="#">Start Your Journey</a></span>
+                  <h2>Préparez vous pour le meilleur entraînement<br>de<b> Votre vie !</b></h2>
+                  <p><span>Le suivi sportif <i class="icon-heart3"></i> sur le bout de vos doigts</span></p>
+                  <span><a class="btn btn-primary" href="#">Commencez votre aventure</a></span>
                 </div>
               </div>
             </div>
@@ -69,21 +69,21 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
               <div class="heading-section text-center animate-box">
-                <h2>Class Schedule</h2>
-                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                <h2>Organiser vos sessions</h2>
+                <p>Décidez de ce que vous allez faire et suivez votre progression très précisement.</p>
               </div>
             </div>
           </div>
           <div class="row animate-box">
             <div class="col-md-10 col-md-offset-1 text-center">
               <ul class="schedule">
-                <li><a href="#" class="active" data-sched="sunday">Sunday</a></li>
-                <li><a href="#" data-sched="monday">Monday</a></li>
-                <li><a href="#" data-sched="tuesday">Tuesday</a></li>
-                <li><a href="#" data-sched="wednesday">Wednesday</a></li>
-                <li><a href="#" data-sched="thursday">Thursday</a></li>
-                <li><a href="#" data-sched="monday">Monday</a></li>
-                <li><a href="#" data-sched="saturday">Saturday</a></li>
+                <li><a href="#" class="active" data-sched="sunday">Dimanche</a></li>
+                <li><a href="#" data-sched="monday">Lundi</a></li>
+                <li><a href="#" data-sched="tuesday">Mardi</a></li>
+                <li><a href="#" data-sched="wednesday">Mercredi</a></li>
+                <li><a href="#" data-sched="thursday">Jeudi</a></li>
+                <li><a href="#" data-sched="wednesday">Vendredi</a></li>
+                <li><a href="#" data-sched="saturday">Samedi</a></li>
               </ul>
             </div>
             <div class="col-md-12 row text-center">
@@ -95,7 +95,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-dumbell.svg" alt="Cycling">
                       <small>06AM-7AM</small>
-                      <h3>Body Building</h3>
+                      <h3>Renforcement</h3>
                       <span>John Doe</span>
                     </div>
                   </div>
@@ -103,15 +103,15 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-yoga.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Yoga Programs</h3>
-                      <span>James Smith</span>
+                      <h3>Yoga</h3>
+                      <span>James Rémy</span>
                     </div>
                   </div>
                   <div class="col-md-3 col-sm-6">
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-cycling.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Cycling Program</h3>
+                      <h3>Cyclisme</h3>
                       <span>Rita Doe</span>
                     </div>
                   </div>
@@ -119,7 +119,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-boxing.svg" alt="Cycling">
                       <small>06AM-7AM</small>
-                      <h3>Boxing Fitness</h3>
+                      <h3>Boxing</h3>
                       <span>John Dose</span>
                     </div>
                   </div>
@@ -131,7 +131,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-yoga.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Yoga Programs</h3>
+                      <h3>Yoga</h3>
                       <span>James Smith</span>
                     </div>
                   </div>
@@ -147,7 +147,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-boxing.svg" alt="Cycling">
                       <small>06AM-7AM</small>
-                      <h3>Boxing Fitness</h3>
+                      <h3>Boxing</h3>
                       <span>John Dose</span>
                     </div>
                   </div>
@@ -155,7 +155,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-cycling.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Cycling Program</h3>
+                      <h3>Cyclisme</h3>
                       <span>Rita Doe</span>
                     </div>
                   </div>
@@ -176,7 +176,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-yoga.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Yoga Programs</h3>
+                      <h3>Yoga</h3>
                       <span>James Smith</span>
                     </div>
                   </div>
@@ -347,14 +347,13 @@
           </div>
         </div>
       </div>
-      <div class="fh5co-parallax" style="background-image: url(../fitness/images/home-image-3.jpg);" data-stellar-background-ratio="0.5">
+      <div class="fh5co-parallax" style="background-image: url(./assets/girl1.jpg );" data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
               <div class="fh5co-intro fh5co-table-cell animate-box">
-                <h1 class="text-center">Commit To Be Fit</h1>
-                <p>Made with love by the fine folks at <a href="http://freehtml5.co">FreeHTML5.co</a></p>
+                <h1 class="text-center">Lancez-vous. Be Fit !</h1>
               </div>
             </div>
           </div>
@@ -365,8 +364,8 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
               <div class="heading-section text-center animate-box">
-                <h2>Our Programs</h2>
-                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                <h2>Les options de suivis</h2>
+                <p>Le programme que vous voulez suivre, le suivi que  <b>vous méritez</b>.</p>
               </div>
             </div>
           </div>
