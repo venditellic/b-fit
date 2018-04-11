@@ -14,16 +14,16 @@
                     <a to="/" href="#">Home</a>
                   </li>
                   <li>
-                    <a href="classes.html" class="fh5co-sub-ddown">Classes</a>
+                    <a href="classes.html" class="fh5co-sub-ddown">Mon compte</a>
                     <ul class="fh5co-sub-menu">
-                      <li><a href="left-sidebar.html">Web Development</a></li>
-                      <li><a href="right-sidebar.html">Branding &amp; Identity</a></li>
+                      <li><a href="left-sidebar.html">Paramètres</a></li>
+                      <li><a href="right-sidebar.html">Blog</a></li>
                       <li>
-                        <a href="#" class="fh5co-sub-ddown">Free HTML5</a>
+                        <a href="#" class="fh5co-sub-ddown">Suivi d'activitée</a>
                         <ul class="fh5co-sub-menu">
-                          <li><a href="http://freehtml5.co/preview/?item=build-free-html5-bootstrap-template" target="_blank">Build</a></li>
-                          <li><a href="http://freehtml5.co/preview/?item=work-free-html5-template-bootstrap" target="_blank">Work</a></li>
-                          <li><a href="http://freehtml5.co/preview/?item=light-free-html5-template-bootstrap" target="_blank">Light</a></li>
+                          <li><a href="http://freehtml5.co/preview/?item=build-free-html5-bootstrap-template" target="_blank">Suivi de performance</a></li>
+                          <li><a href="http://freehtml5.co/preview/?item=work-free-html5-template-bootstrap" target="_blank">Planning</a></li>
+                          <li><aquas href="http://freehtml5.co/preview/?item=light-free-html5-template-bootstrap" target="_blank">Tableau de bord</aquas></li>
                           <li><a href="http://freehtml5.co/preview/?item=relic-free-html5-template-using-bootstrap" target="_blank">Relic</a></li>
                           <li><a href="http://freehtml5.co/preview/?item=display-free-html5-template-using-bootstrap" target="_blank">Display</a></li>
                           <li><a href="http://freehtml5.co/preview/?item=sprint-free-html5-template-bootstrap" target="_blank">Sprint</a></li>

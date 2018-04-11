@@ -75,7 +75,9 @@ module.exports = function (ctx) {
         'QSearch',
         'QParallax',
         'QTimeline',
-        'QTimelineEntry'
+        'QTimelineEntry',
+        'QInput',
+        'QProgress'
       ],
       directives: [
         'Ripple'
