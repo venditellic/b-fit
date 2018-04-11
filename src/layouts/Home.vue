@@ -6,12 +6,12 @@
           <div class="container">
             <div class="nav-header">
               <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-              <h1 id="fh5co-logo"><a to="/" href="#">Fit<span>ness</span></a></h1>
+              <h1 id="fh5co-logo"><a to="/" href="#">B-<span>FIT</span></a></h1>
               <!-- START #fh5co-menu-wrap -->
               <nav id="fh5co-menu-wrap" role="navigation">
                 <ul class="sf-menu" id="fh5co-primary-menu">
                   <li class="active">
-                    <a to="/" href="#">Home</a>
+                    <a to="/" href="#">Accueil</a>
                   </li>
                   <li>
                     <a href="classes.html" class="fh5co-sub-ddown">Classes</a>
@@ -49,14 +49,14 @@
       <!-- end:fh5co-header -->
       <div class="fh5co-hero">
         <div class="fh5co-overlay"></div>
-        <div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(./assets/home-image-2.jpg);">
+        <div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(./assets/mec2.jpg);">
           <div class="desc animate-box">
             <div class="container">
               <div class="row">
                 <div class="col-md-7">
-                  <h2>Fitness &amp; Health <br>is a <b>Mentality</b></h2>
-                  <p><span>Created with <i class="icon-heart3"></i> by the fine folks at <a href="http://freehtml5.co" class="fh5co-site-name">FreeHTML5.co</a></span></p>
-                  <span><a class="btn btn-primary" href="#">Start Your Journey</a></span>
+                  <h2>Préparez vous pour le meilleur entraînement<br>de<b> Votre vie !</b></h2>
+                  <p><span>Le suivi sportif <i class="icon-heart3"></i> sur le bout de vos doigts</span></p>
+                  <span><a class="btn btn-primary" href="#">Commencez votre aventure</a></span>
                 </div>
               </div>
             </div>
@@ -347,7 +347,7 @@
           </div>
         </div>
       </div>
-      <div class="fh5co-parallax" style="background-image: url(../fitness/images/home-image-3.jpg );" data-stellar-background-ratio="0.5">
+      <div class="fh5co-parallax" style="background-image: url(./assets/girl1.jpg );" data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
           <div class="row">

@@ -323,10 +323,11 @@ figure {
 }
 #fh5co-logo a:after {
   position: absolute;
+  border-radius: 10px;
   content: '';
   top: -5px;
   left: -9px;
-  background: #DA1212;
+  background: #EFA842;
   width: 10px;
   height: 10px;
 }
