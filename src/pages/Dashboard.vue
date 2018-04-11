@@ -1,12 +1,19 @@
 <template>
   <q-page padding>
-    <!-- content -->
+    <main-objective> </main-objective>
+    <schedule-objective> </schedule-objective>
   </q-page>
 </template>
 
 <script>
+import MainObjective from '../components/objective/MainObjective'
+import ScheduleObjective from '../components/objective/ScheduleObjective'
 export default {
-  // name: 'PageName',
+  name: 'PageDashBoard',
+  components: {
+    MainObjective,
+    ScheduleObjective
+  }
 }
 </script>
 
