@@ -35,10 +35,10 @@
                     </ul>
                   </li>
                   <li>
-                    <a href="schedule.html">Schedule</a>
+                    <a href="schedule.html">Calendrier</a>
                   </li>
-                  <li><a href="trainer.html">Trainers</a></li>
-                  <li><a href="about.html">About</a></li>
+                  <li><a href="trainer.html">Entraineurs</a></li>
+                  <li><a href="about.html">À propos</a></li>
                   <li><a href="contact.html">Contact</a></li>
                 </ul>
               </nav>
@@ -69,21 +69,21 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
               <div class="heading-section text-center animate-box">
-                <h2>Class Schedule</h2>
-                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                <h2>Organiser vos sessions</h2>
+                <p>Décidez de ce que vous allez faire et suivez votre progression très précisement.</p>
               </div>
             </div>
           </div>
           <div class="row animate-box">
             <div class="col-md-10 col-md-offset-1 text-center">
               <ul class="schedule">
-                <li><a href="#" class="active" data-sched="sunday">Sunday</a></li>
-                <li><a href="#" data-sched="monday">Monday</a></li>
-                <li><a href="#" data-sched="tuesday">Tuesday</a></li>
-                <li><a href="#" data-sched="wednesday">Wednesday</a></li>
-                <li><a href="#" data-sched="thursday">Thursday</a></li>
-                <li><a href="#" data-sched="monday">Monday</a></li>
-                <li><a href="#" data-sched="saturday">Saturday</a></li>
+                <li><a href="#" class="active" data-sched="sunday">Dimanche</a></li>
+                <li><a href="#" data-sched="monday">Lundi</a></li>
+                <li><a href="#" data-sched="tuesday">Mardi</a></li>
+                <li><a href="#" data-sched="wednesday">Mercredi</a></li>
+                <li><a href="#" data-sched="thursday">Jeudi</a></li>
+                <li><a href="#" data-sched="wednesday">Vendredi</a></li>
+                <li><a href="#" data-sched="saturday">Samedi</a></li>
               </ul>
             </div>
             <div class="col-md-12 row text-center">
@@ -95,7 +95,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-dumbell.svg" alt="Cycling">
                       <small>06AM-7AM</small>
-                      <h3>Body Building</h3>
+                      <h3>Renforcement</h3>
                       <span>John Doe</span>
                     </div>
                   </div>
@@ -103,15 +103,15 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-yoga.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Yoga Programs</h3>
-                      <span>James Smith</span>
+                      <h3>Yoga</h3>
+                      <span>James Rémy</span>
                     </div>
                   </div>
                   <div class="col-md-3 col-sm-6">
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-cycling.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Cycling Program</h3>
+                      <h3>Cyclisme</h3>
                       <span>Rita Doe</span>
                     </div>
                   </div>
@@ -119,7 +119,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-boxing.svg" alt="Cycling">
                       <small>06AM-7AM</small>
-                      <h3>Boxing Fitness</h3>
+                      <h3>Boxing</h3>
                       <span>John Dose</span>
                     </div>
                   </div>
@@ -131,7 +131,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-yoga.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Yoga Programs</h3>
+                      <h3>Yoga</h3>
                       <span>James Smith</span>
                     </div>
                   </div>
@@ -147,7 +147,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-boxing.svg" alt="Cycling">
                       <small>06AM-7AM</small>
-                      <h3>Boxing Fitness</h3>
+                      <h3>Boxing</h3>
                       <span>John Dose</span>
                     </div>
                   </div>
@@ -155,7 +155,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-cycling.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Cycling Program</h3>
+                      <h3>Cyclisme</h3>
                       <span>Rita Doe</span>
                     </div>
                   </div>
@@ -176,7 +176,7 @@
                     <div class="program program-schedule">
                       <img src="../fitness/images/fit-yoga.svg" alt="">
                       <small>06AM-7AM</small>
-                      <h3>Yoga Programs</h3>
+                      <h3>Yoga</h3>
                       <span>James Smith</span>
                     </div>
                   </div>
@@ -353,8 +353,7 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
               <div class="fh5co-intro fh5co-table-cell animate-box">
-                <h1 class="text-center">Commit To Be Fit</h1>
-                <p>Made with love by the fine folks at <a href="http://freehtml5.co">FreeHTML5.co</a></p>
+                <h1 class="text-center">Lancez-vous. Be Fit !</h1>
               </div>
             </div>
           </div>
@@ -365,8 +364,8 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
               <div class="heading-section text-center animate-box">
-                <h2>Our Programs</h2>
-                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                <h2>Les options de suivis</h2>
+                <p>Le programme que vous voulez suivre, le suivi que  <b>vous méritez</b>.</p>
               </div>
             </div>
           </div>
