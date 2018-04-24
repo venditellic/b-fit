@@ -1,12 +1,16 @@
 <template>
   <q-page padding>
-    <!-- content -->
+    <scheduler></scheduler>
   </q-page>
 </template>
 
 <script>
+import Scheduler from '../components/Scheduler/Scheduler'
 export default {
-  // name: 'PageName',
+  name: 'PageScheduler',
+  components: {
+    Scheduler
+  }
 }
 </script>
 

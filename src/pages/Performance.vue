@@ -1,18 +1,15 @@
 <template>
-  <div>
-    <tab-performance class="padItem"></tab-performance>
-    <chart-performance class="padItem"></chart-performance>
-  </div>
+  <q-page padding>
+    <pivot-grid></pivot-grid>
+  </q-page>
 </template>
 
 <script>
-import TabPerformance from './../components/TabPerformance'
-import ChartPerformance from './../components/ChartPerformance'
+import PivotGrid from '../components/PivotGrid/PivotGrid'
 export default {
   name: 'PagePerformance',
   components: {
-    TabPerformance,
-    ChartPerformance
+    PivotGrid
   }
 }
 </script>
