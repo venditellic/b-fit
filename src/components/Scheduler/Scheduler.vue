@@ -13,6 +13,7 @@
     :resources="resources"
     resourceCellTemplate="resourceCellTemplate"
     :dataCellTemplate="dataCellTemplate"
+    timeZone="Europe/Berlin"
   >
     <div slot="resourceCellTemplate" slot-scope="employee">
       <div class='name' :style="{'background': employee.color}">
@@ -45,13 +46,13 @@ export default {
   data () {
     return {
       dataSource: data,
-      views: ['month'],
+      views: ['month', 'week', 'day'],
       currentView: 'month',
-      currentDate: new Date(2016, 7, 2, 11, 30),
+      currentDate: Date.now(),
       firstDayOfWeek: 1,
-      startDayHour: 8,
-      endDayHour: 18,
-      showAllDayPanel: false,
+      startDayHour: 0,
+      endDayHour: 24,
+      showAllDayPanel: true,
       height: 600,
       groups: ['employeeID'],
       resources: [

@@ -14,32 +14,20 @@
                     <a to="/" href="#">Accueil</a>
                   </li>
                   <li>
-                    <a href="classes.html" class="fh5co-sub-ddown">Mon compte</a>
+                    <a  href="/suivi" class="fh5co-sub-ddown">Mon suivi</a>
                     <ul class="fh5co-sub-menu">
-                      <li><a href="left-sidebar.html">Paramètres</a></li>
-                      <li><a href="right-sidebar.html">Blog</a></li>
+                      <li><a href="/suivi/dashboard">Tableau de bord</a></li>
+                      <li><a href="/suivi/planning">Planning</a></li>
                       <li>
-                        <a href="#" class="fh5co-sub-ddown">Suivi d'activitée</a>
-                        <ul class="fh5co-sub-menu">
-                          <li><a href="http://freehtml5.co/preview/?item=build-free-html5-bootstrap-template" target="_blank">Suivi de performance</a></li>
-                          <li><a href="http://freehtml5.co/preview/?item=work-free-html5-template-bootstrap" target="_blank">Planning</a></li>
-                          <li><aquas href="http://freehtml5.co/preview/?item=light-free-html5-template-bootstrap" target="_blank">Tableau de bord</aquas></li>
-                          <li><a href="http://freehtml5.co/preview/?item=relic-free-html5-template-using-bootstrap" target="_blank">Relic</a></li>
-                          <li><a href="http://freehtml5.co/preview/?item=display-free-html5-template-using-bootstrap" target="_blank">Display</a></li>
-                          <li><a href="http://freehtml5.co/preview/?item=sprint-free-html5-template-bootstrap" target="_blank">Sprint</a></li>
-                        </ul>
+                        <a href="/suivi/performance" class="fh5co-sub-ddown">Performance</a>
                       </li>
-                      <li><a href="#">UI Animation</a></li>
-                      <li><a href="#">Copywriting</a></li>
-                      <li><a href="#">Photography</a></li>
                     </ul>
                   </li>
                   <li>
-                    <a href="schedule.html">Calendrier</a>
+                    <a href="#">Actualité</a>
                   </li>
-                  <li><a href="trainer.html">Entraineurs</a></li>
-                  <li><a href="about.html">À propos</a></li>
-                  <li><a href="contact.html">Contact</a></li>
+                  <li><a href="#">À propos</a></li>
+                  <li><a href="#">Contact</a></li>
                 </ul>
               </nav>
             </div>
@@ -56,7 +44,7 @@
                 <div class="col-md-7">
                   <h2>Préparez vous pour le meilleur entraînement<br>de<b> Votre vie !</b></h2>
                   <p><span>Le suivi sportif <i class="icon-heart3"></i> sur le bout de vos doigts</span></p>
-                  <span><a class="btn btn-primary" href="#">Commencez votre aventure</a></span>
+                  <span><a class="btn btn-primary" href="/suivi">Commencez votre aventure</a></span>
                 </div>
               </div>
             </div>
