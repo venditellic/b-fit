@@ -10,12 +10,16 @@
                 :commonSeriesSettings="commonSeriesSettings"
                 :series="series"
                 :theme="theme"
+                :tooltip="tooltip"
         >
         </dx-pie-chart>
     </div>
 </template>
 
 <script>
+import 'devextreme/dist/css/dx.spa.css'
+import 'devextreme/dist/css/dx.common.css'
+import 'devextreme/dist/css/dx.darkviolet.css'
 import { DxPieChart } from 'devextreme-vue'
 import { exportImportData } from './dataChart'
 export default {
@@ -44,7 +48,7 @@ export default {
       tooltip: {
         enabled: true,
         format: 'currency',
-        customizeTooltip: this.customizeTooltip(this.series)
+        customizeTooltip: this.customizeTooltip.bind(this)
       },
       series: [{
         name: 'Export',

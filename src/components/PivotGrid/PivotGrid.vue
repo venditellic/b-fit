@@ -28,6 +28,9 @@
 </template>
 
 <script>
+import 'devextreme/dist/css/dx.spa.css'
+import 'devextreme/dist/css/dx.common.css'
+import 'devextreme/dist/css/dx.darkviolet.css'
 import { DxPivotGrid, DxChart } from 'devextreme-vue'
 import { sales } from './dataPivotGrid'
 export default {
@@ -119,11 +122,6 @@ export default {
 </script>
 
 <style scoped>
-    /**
-    @import '/node_modules/devextreme/dist/css/dx.spa.css';
-    @import '/node_modules/devextreme/dist/css/dx.common.css';
-    @import '/node_modules/devextreme/dist/css/dx.darkviolet.css';
-    /**/
     /deep/ #pivotgrid {
         margin-top: 20px;
     }
