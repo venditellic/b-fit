@@ -32,7 +32,8 @@ import 'devextreme/dist/css/dx.spa.css'
 import 'devextreme/dist/css/dx.common.css'
 import 'devextreme/dist/css/dx.darkviolet.css'
 import { DxPivotGrid, DxChart } from 'devextreme-vue'
-import { sales } from './dataPivotGrid'
+// import { sales } from './dataPivotGrid'
+import { MuscleSuivi } from './dataMuscleGroupe'
 export default {
   name: 'PivotGrid',
   components: {
@@ -63,8 +64,8 @@ export default {
           area: 'row',
           sortBySummaryField: 'Total'
         }, {
-          caption: 'City',
-          dataField: 'city',
+          caption: 'Country',
+          dataField: 'country',
           width: 150,
           area: 'row'
         }, {
@@ -83,7 +84,7 @@ export default {
           format: 'currency',
           area: 'data'
         }],
-        store: sales
+        store: MuscleSuivi
       },
       dataFieldsDisplayMode: 'splitPanes',
       alternateDataFields: false,
