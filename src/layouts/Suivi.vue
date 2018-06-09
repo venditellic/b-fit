@@ -15,13 +15,13 @@
           <img class="logo" alt="Bfit logo" src="~assets/bfit-logo-black.png">
         </a>
         <q-toolbar-title to="/suivi">
-          Suivi d'activitée
-          <span slot="subtitle">Subtile</span>
+          Suivi d'activité
+          <span slot="subtitle">Dashboard / Planning / Performance</span>
         </q-toolbar-title>
       </q-toolbar>
       <q-tabs>
         <q-route-tab slot="title" icon="home" to="/" replace hide="icon" label="Home" />
-        <q-route-tab slot="title" icon="fitness_center" to="/suivi" replace hide="icon" label="Suivi d'activitée" />
+        <q-route-tab slot="title" icon="fitness_center" to="/suivi" replace hide="icon" label="Suivi d'activité" />
         <q-route-tab slot="title" icon="directions_run" to="/anatomie" replace hide="icon" label="Anatomie" />
         <q-route-tab slot="title" icon="whatshot" to="/hot" replace label="Actualité" />
       </q-tabs>
@@ -38,8 +38,8 @@
           @click="leftDrawer = !leftDrawer"
         />
         <q-toolbar-title>
-          Footer
-          <span slot="subtitle">Subtile</span>
+          Menu
+          <span slot="subtitle">Dashboard / Planning / Performance</span>
         </q-toolbar-title>
       </q-toolbar>
     </q-layout-footer>
