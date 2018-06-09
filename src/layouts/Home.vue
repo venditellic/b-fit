@@ -24,7 +24,7 @@
                     </ul>
                   </li>
                   <li>
-                    <a href="#">Actualité</a>
+                    <a href="#">Actualités</a>
                   </li>
                   <li><a href="#">À propos</a></li>
                   <li><a href="#">Contact</a></li>
@@ -57,7 +57,7 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
               <div class="heading-section text-center animate-box">
-                <h2>Organiser vos sessions</h2>
+                <h2>Organisez vos sessions</h2>
                 <p>Décidez de ce que vous allez faire et suivez votre progression très précisement.</p>
               </div>
             </div>
@@ -352,8 +352,8 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
               <div class="heading-section text-center animate-box">
-                <h2>Les options de suivis</h2>
-                <p>Le programme que vous voulez suivre, le suivi que  <b>vous méritez</b>.</p>
+                <h2>Les options de suivi</h2>
+                <p>Le programme que vous voulez suivre, le suivi que <b>vous méritez</b>.</p>
               </div>
             </div>
           </div>
@@ -362,48 +362,48 @@
               <div class="program animate-box">
                 <img src="../fitness/images/fit-dumbell.svg" alt="Cycling">
                 <h3>Body Combat</h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-                <span><a href="#" class="btn btn-default">Join Now</a></span>
+                <p>Discipline intensive qui s'inspire de mouvements d'arts martiaux de haut niveau comme le karaté, la boxe et le taekwendo.</p>
+                <span><a href="#" class="btn btn-default">Découvrir B-fit</a></span>
               </div>
             </div>
             <div class="col-md-4 col-sm-6">
               <div class="program animate-box">
                 <img src="../fitness/images/fit-yoga.svg" alt="">
-                <h3>Yoga Programs</h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-                <span><a href="#" class="btn btn-default">Join Now</a></span>
+                <h3>Yoga Program</h3>
+                <p>Raffermir votre silhouette, gagner en souplesse et lâcher-prise, le yoga est parfait pour maintenir une pratique physique régulière.</p>
+                <span><a href="#" class="btn btn-default">Découvrir B-fit</a></span>
               </div>
             </div>
             <div class="col-md-4 col-sm-6">
               <div class="program animate-box">
                 <img src="../fitness/images/fit-cycling.svg" alt="">
                 <h3>Cycling Program</h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-                <span><a href="#" class="btn btn-default">Join Now</a></span>
+                <p>Si vous voulez améliorer votre endurance et vous défouler, programmez votre prochaine séance de Cycling dès maintenant.</p>
+                <span><a href="#" class="btn btn-default">Découvrir B-fit</a></span>
               </div>
             </div>
             <div class="col-md-4 col-sm-6">
               <div class="program animate-box">
                 <img src="../fitness/images/fit-boxing.svg" alt="Cycling">
                 <h3>Boxing Fitness</h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-                <span><a href="#" class="btn btn-default">Join Now</a></span>
+                <p>Activité de remise en forme qui combine training et apprentissage de mouvements de self-défense. Une alliance parfaite !</p>
+                <span><a href="#" class="btn btn-default">Découvrir B-fit</a></span>
               </div>
             </div>
             <div class="col-md-4 col-sm-6">
               <div class="program animate-box">
                 <img src="../fitness/images/fit-swimming.svg" alt="">
                 <h3>Swimming Program</h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-                <span><a href="#" class="btn btn-default">Join Now</a></span>
+                <p>Sport complet qui sollicite l'ensemble des muscles du corps, qui développe l'endurance, le souffle et qui apaise.</p>
+                <span><a href="#" class="btn btn-default">Découvrir B-fit</a></span>
               </div>
             </div>
             <div class="col-md-4 col-sm-6">
               <div class="program animate-box">
                 <img src="../fitness/images/fit-massage.svg" alt="">
                 <h3>Massage</h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-                <span><a href="#" class="btn btn-default">Join Now</a></span>
+                <p>Programmez votre prochaine séance de massage ou votre rendez-vous chez le kinésithérapeute ? Avec B-fit, c'est possible.</p>
+                <span><a href="#" class="btn btn-default">Découvrir B-fitw</a></span>
               </div>
             </div>
           </div>
@@ -414,8 +414,8 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
               <div class="heading-section text-center animate-box">
-                <h2>Meet Our Trainers</h2>
-                <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                <h2>Notre équipe</h2>
+                <p>B-fit a été conçu par des sportifs, pour des sportifs.</p>
               </div>
             </div>
           </div>
@@ -424,9 +424,9 @@
               <div class="team-section-grid animate-box" style="background-image: url(../fitness/images/trainer-1.jpg);">
                 <div class="overlay-section">
                   <div class="desc">
-                    <h3>John Doe</h3>
-                    <span>Body Trainer</span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                    <h3>Benedict Bianchini</h3>
+                    <span>Chef de projets et Commerciale</span>
+                    <p></p>
                     <p class="fh5co-social-icons">
                       <a href="#"><i class="icon-twitter-with-circle"></i></a>
                       <a href="#"><i class="icon-facebook-with-circle"></i></a>
@@ -440,9 +440,9 @@
               <div class="team-section-grid animate-box" style="background-image: url(../fitness/images/trainer-2.jpg);">
                 <div class="overlay-section">
                   <div class="desc">
-                    <h3>James Smith</h3>
-                    <span>Swimming Trainer</span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                    <h3>Thomas Ehya</h3>
+                    <span>Développeur Front-end et Graphiste</span>
+                    <p></p>
                     <p class="fh5co-social-icons">
                       <a href="#"><i class="icon-twitter-with-circle"></i></a>
                       <a href="#"><i class="icon-facebook-with-circle"></i></a>
@@ -456,9 +456,9 @@
               <div class="team-section-grid animate-box" style="background-image: url(../fitness/images/trainer-3.jpg);">
                 <div class="overlay-section">
                   <div class="desc">
-                    <h3>John Doe</h3>
-                    <span>Chief Executive Officer</span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <h3>Rémy Jérôme</h3>
+                    <span>Développeur Back-end</span>
+                    <p></p>
                     <p class="fh5co-social-icons">
                       <a href="#"><i class="icon-twitter-with-circle"></i></a>
                       <a href="#"><i class="icon-facebook-with-circle"></i></a>
@@ -472,9 +472,9 @@
               <div class="team-section-grid animate-box" style="background-image: url(../fitness/images/trainer-4.jpg);">
                 <div class="overlay-section">
                   <div class="desc">
-                    <h3>John Doe</h3>
-                    <span>Chief Executive Officer</span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <h3>Élodie Ribeiro</h3>
+                    <span>Intégratrice et Graphiste</span>
+                    <p></p>
                     <p class="fh5co-social-icons">
                       <a href="#"><i class="icon-twitter-with-circle"></i></a>
                       <a href="#"><i class="icon-facebook-with-circle"></i></a>
@@ -488,9 +488,9 @@
               <div class="team-section-grid animate-box" style="background-image: url(../fitness/images/trainer-5.jpg);">
                 <div class="overlay-section">
                   <div class="desc">
-                    <h3>John Doe</h3>
-                    <span>Chief Executive Officer</span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <h3>Claire Venditelli</h3>
+                    <span>Responsable Communication et Marketing</span>
+                    <p></p>
                     <p class="fh5co-social-icons">
                       <a href="#"><i class="icon-twitter-with-circle"></i></a>
                       <a href="#"><i class="icon-facebook-with-circle"></i></a>
@@ -504,9 +504,9 @@
               <div class="team-section-grid animate-box" style="background-image: url(../fitness/images/trainer-6.jpg);">
                 <div class="overlay-section">
                   <div class="desc">
-                    <h3>John Doe</h3>
-                    <span>Chief Executive Officer</span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <h3>B-fit User</h3>
+                    <span>L'équipe et vous</span>
+                    <p style="font-size:12px">En tant qu'utilisateur B-fit, vous faites parti de notre team : vous avez des suggestions, des envies ? Contactez-nous</p>
                     <p class="fh5co-social-icons">
                       <a href="#"><i class="icon-twitter-with-circle"></i></a>
                       <a href="#"><i class="icon-facebook-with-circle"></i></a>
@@ -629,7 +629,7 @@
             <div class="col-md-6">
               <div class="col-md-12">
                 <div class="heading-section animate-box">
-                  <h2>Recent from Blog</h2>
+                  <h2>Articles du Blog</h2>
                 </div>
               </div>
               <div class="col-md-12 col-md-offset-0">
@@ -638,11 +638,11 @@
                     <a href="#"><img class="img-responsive" src="../fitness/images/blog-1.jpg" alt=""></a>
                   </div>
                   <div class="desc">
-                    <h3><a href="#">Starting new session of body building this summer</a></h3>
-                    <span class="posted_by">Posted by: Admin</span>
+                    <h3><a href="#">Définir ses objectifs sportifs avec B-fit</a></h3>
+                    <span class="posted_by">Posted by: Claire</span>
                     <span class="comment"><a href="">21<i class="icon-bubble22"></i></a></span>
-                    <p>Far far away, behind the word mountains</p>
-                    <a href="#" class="btn btn-default">Read More</a>
+                    <p>Avec B-fit, programmez vos séances d'entraînement, fixez vos...</p>
+                    <a href="#" class="btn btn-default">Lire la suite</a>
                   </div>
                 </div>
               </div>
@@ -652,11 +652,11 @@
                     <a href="#"><img class="img-responsive" src="../fitness/images/blog-1.jpg" alt=""></a>
                   </div>
                   <div class="desc">
-                    <h3><a href="#">Starting new session of body building this summer</a></h3>
-                    <span class="posted_by">Posted by: Admin</span>
+                    <h3><a href="#">Présentation de l'application B-fit</a></h3>
+                    <span class="posted_by">Posted by: Claire</span>
                     <span class="comment"><a href="">21<i class="icon-bubble22"></i></a></span>
-                    <p>Far far away, behind the word mountains</p>
-                    <a href="#" class="btn btn-default">Read More</a>
+                    <p>B-fit est une application de suivi de vos performances sportives...</p>
+                    <a href="#" class="btn btn-default">Lire la suite</a>
                   </div>
                 </div>
               </div>
@@ -664,34 +664,34 @@
             <div class="col-md-6">
               <div class="col-md-12">
                 <div class="heading-section animate-box">
-                  <h2>Upcoming Events</h2>
+                  <h2>Évènements à venir</h2>
                 </div>
               </div>
               <div class="col-md-12 col-md-offset-0">
                 <div class="fh5co-blog animate-box">
                   <div class="meta-date text-center">
-                    <p><span class="date">14</span><span>June</span><span>2016</span></p>
+                    <p><span class="date">10</span><span>Sept.</span><span>2018</span></p>
                   </div>
                   <div class="desc desc2">
-                    <h3><a href="#">Starting new session of body building this summer</a></h3>
-                    <span class="posted_by">Posted by: Admin</span>
+                    <h3><a href="#">Inscrivez-vous à notre newsletter !</a></h3>
+                    <span class="posted_by">Posted by: Claire</span>
                     <span class="comment"><a href="">21<i class="icon-bubble22"></i></a></span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                    <a href="#" class="btn btn-default">Read More</a>
+                    <p>Pour suivre toute l'actualité B-fit et recevoir des offres exclusives, inscrivez-vous à notre newsletter...</p>
+                    <a href="#" class="btn btn-default">Lire la suite</a>
                   </div>
                 </div>
               </div>
               <div class="col-md-12 col-md-offset-0">
                 <div class="fh5co-blog animate-box">
                   <div class="meta-date text-center">
-                    <p><span class="date">13</span><span>June</span><span>2016</span></p>
+                    <p><span class="date">01</span><span>Sept.</span><span>2018</span></p>
                   </div>
                   <div class="desc desc2">
-                    <h3><a href="#">Starting new session of body building this summer</a></h3>
-                    <span class="posted_by">Posted by: Admin</span>
+                    <h3><a href="#">Lancement de l'application B-fit</a></h3>
+                    <span class="posted_by">Posted by: Claire</span>
                     <span class="comment"><a href="">21<i class="icon-bubble22"></i></a></span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                    <a href="#" class="btn btn-default">Read More</a>
+                    <p>Préparez-vous à suivre le meilleur entraînement de votre vie...</p>
+                    <a href="#" class="btn btn-default">Lire la suite</a>
                   </div>
                 </div>
               </div>
@@ -705,25 +705,26 @@
           <div class="container">
             <div class="row">
               <div class="col-md-4 animate-box">
-                <h3 class="section-title">About Us</h3>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
+                <h3 class="section-title">À propos</h3>
+                <p>B-fit est l'application de suivi de performances sportives qui révolutionne vos entraînements.
+                À l'origine du projet : BERRIES, une start-up créée en 2018 spécialisée dans le développement d'applications web et mobiles.</p>
               </div>
 
               <div class="col-md-4 animate-box">
-                <h3 class="section-title">Our Address</h3>
+                <h3 class="section-title">Informations pratiques</h3>
                 <ul class="contact-info">
-                  <li><i class="icon-map-marker"></i>198 West 21th Street, Suite 721 New York NY 10016</li>
-                  <li><i class="icon-phone"></i>+ 1235 2355 98</li>
-                  <li><i class="icon-envelope"></i><a href="#">info@yoursite.com</a></li>
-                  <li><i class="icon-globe2"></i><a href="#">www.yoursite.com</a></li>
+                  <li><i class="icon-map-marker"></i>Lyon</li>
+                  <li><i class="icon-phone"></i>04 12 34 56 78</li>
+                  <li><i class="icon-envelope"></i><a href="mailto:" title="contact@b-fit.com" target="_blank">contact@b-fit.com</a></li>
+                  <li><i class="icon-globe2"></i><a href="#">www.b-fit.com</a></li>
                 </ul>
               </div>
               <div class="col-md-4 animate-box">
-                <h3 class="section-title">Drop us a line</h3>
+                <h3 class="section-title">Contact</h3>
                 <form class="contact-form">
                   <div class="form-group">
-                    <label for="name" class="sr-only">Name</label>
-                    <input type="name" class="form-control" id="name" placeholder="Name">
+                    <label for="name" class="sr-only">Nom</label>
+                    <input type="name" class="form-control" id="name" placeholder="Nom">
                   </div>
                   <div class="form-group">
                     <label for="email" class="sr-only">Email</label>
@@ -734,7 +735,7 @@
                     <textarea class="form-control" id="message" rows="7" placeholder="Message"></textarea>
                   </div>
                   <div class="form-group">
-                    <input type="submit" id="btn-submit" class="btn btn-send-message btn-md" value="Send Message">
+                    <input type="submit" id="btn-submit" class="btn btn-send-message btn-md" value="Soumettre">
                   </div>
                 </form>
               </div>
